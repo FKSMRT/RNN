@@ -1,0 +1,25 @@
+,T value,P value
+A <_Only Solvent (S)_> & A <_Low Concentration (L)_>,32.85354232788086,2.7758782569925156e-129
+A <_Only Solvent (S)_> & A <_High Concentration (H)_>,11.388751983642578,5.565743032991886e-28
+A <_Low Concentration (L)_> & A <_High Concentration (H)_>,-31.3917236328125,5.0301102529983925e-127
+B <_Only Solvent (S)_> & B <_Low Concentration (L)_>,3.4602255821228027,0.0005630507251778075
+B <_Only Solvent (S)_> & B <_High Concentration (H)_>,4.438394069671631,1.0100944263240105e-05
+B <_Low Concentration (L)_> & B <_High Concentration (H)_>,1.2573301792144775,0.20894004102347402
+C <_Only Solvent (S)_> & C <_Low Concentration (L)_>,26.01858139038086,2.4680999000296547e-112
+C <_Only Solvent (S)_> & C <_High Concentration (H)_>,-2.046151876449585,0.04104446031709346
+C <_Low Concentration (L)_> & C <_High Concentration (H)_>,-21.932968139648438,1.5504097187590687e-82
+D <_Only Solvent (S)_> & D <_Low Concentration (L)_>,-40.329994201660156,7.390359355266539e-179
+D <_Only Solvent (S)_> & D <_High Concentration (H)_>,-6.399291515350342,2.5071579467258927e-10
+D <_Low Concentration (L)_> & D <_High Concentration (H)_>,34.26191329956055,1.4112021401929374e-156
+E <_Only Solvent (S)_> & E <_Low Concentration (L)_>,72.18543243408203,0.0
+E <_Only Solvent (S)_> & E <_High Concentration (H)_>,50.53049850463867,7.52251536827437e-247
+E <_Low Concentration (L)_> & E <_High Concentration (H)_>,3.9091429710388184,0.00010150621119591327
+F <_Only Solvent (S)_> & F <_Low Concentration (L)_>,-5.3190436363220215,1.2934198760084512e-07
+F <_Only Solvent (S)_> & F <_High Concentration (H)_>,-6.357114791870117,3.1672851123526565e-10
+F <_Low Concentration (L)_> & F <_High Concentration (H)_>,-1.2100725173950195,0.22654433886804679
+G <_Only Solvent (S)_> & G <_Low Concentration (L)_>,81.5173568725586,1.6651416917762032e-302
+G <_Only Solvent (S)_> & G <_High Concentration (H)_>,-2.9392261505126953,0.0033880421251421453
+G <_Low Concentration (L)_> & G <_High Concentration (H)_>,-50.212581634521484,3.9495540242891805e-198
+H <_Only Solvent (S)_> & H <_Low Concentration (L)_>,-16.056743621826172,9.569269627494923e-51
+H <_Only Solvent (S)_> & H <_High Concentration (H)_>,-53.1606330871582,1.5117159291159053e-278
+H <_Low Concentration (L)_> & H <_High Concentration (H)_>,-20.696855545043945,2.3229559483023565e-74
